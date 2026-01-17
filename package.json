@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://uzairarain2008.github.io/Joti-portoflio",
+  "homepage": "https://uzairarain2008.github.io/joti-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
