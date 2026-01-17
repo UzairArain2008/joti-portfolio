@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           {/* Logo */}
           <a href="#" className="font-serif text-xl font-medium">
-            Sarah<span className="text-primary">.</span>
+            Joti<span className="text-primary">.</span>
           </a>
 
           {/* Copyright */}
